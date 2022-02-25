@@ -1,21 +1,15 @@
-function Profile(props) {
-    console.log(props.name);
-    return ( 
-        
-        <div className = "Profile" >
+import React from "react";
+function Profile() {
+    return(
+      <div>
+      Profile
+      </div>
 
-        Hello <br></br>
-          
-         {props.name}
-        <br></br>
+      
+    )
+    
 
-        Hacking Is Free
-
-        
-        </div>
-    );
 
 }
-
 
 export default Profile;
