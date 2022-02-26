@@ -1,7 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 body {
   background: #000;
+  background-image: url("tom-barrett-hgGplX3PFBg-unsplash.jpg");  
+  
   display: flex;
   min-height: 100vh;
   justify-content: center;
@@ -14,6 +16,7 @@ body {
   margin: auto;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
   padding: 10px;
+  opacity: 0.7;
 }
 
 .register-form {
@@ -64,4 +67,4 @@ button {
 
 button:disabled {
   cursor: default;
-}
+} */
